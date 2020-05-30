@@ -16,7 +16,8 @@
 }
 
 h1,h2,h3 {
-    font-family: 'Roboto';
+
+    font-family: 'Roboto', sans-serif;
 }
 
 nav a {
@@ -42,7 +43,8 @@ color: white;
 .sobrep{
     font-family: 18px;
     line-height: 22px;
-    font-family: 'Roboto';
+
+    font-family: 'Roboto', sans-serif;
 }
 
 .porange {
