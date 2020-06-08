@@ -100,4 +100,23 @@ color: white;
 
      }
 
-     
+      /* CSS UNIDADE HTML  */
+
+.embaixo{
+    padding: 27px 10px;
+    border: 3;
+    border-radius: 30px;
+    margin-top: 10px;
+}
+
+.cardunid{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+
+}
+
+.detalhess{
+    background-color: darkorange;
+}
+
