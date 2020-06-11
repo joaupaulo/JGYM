@@ -105,10 +105,10 @@ color: white;
       /* CSS UNIDADE HTML  */
 
 .embaixo{
-    padding: 27px 10px;
-    border: 3;
+    padding: 17px 20px;
     border-radius: 30px;
     margin-top: 30px;
+    width: 60%;
 }
 
 .cardunid{
@@ -122,6 +122,9 @@ color: white;
     background-color: darkorange;
 }
 
+.barra{
+    text-align: center;
+}
 
 @media (max-width: 767.98px) {
     .cardunid {
