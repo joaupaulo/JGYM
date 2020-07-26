@@ -3,4 +3,4 @@
 </br>
 </br>
 </br>
- <h1 align="center"><b>-SEGUE ABAIXO SCREESHOTS DO PROJETO</b></h1>
+ <h2 align="center"><b>-SEGUE ABAIXO SCREESHOTS DO PROJETO</b></h2>
