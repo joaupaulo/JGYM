@@ -8,6 +8,9 @@
 <p align="center"><b> Responsividade do MOTO G4</b> </p>
 <p align="center"><img width="50%" hight="100%" src= "https://user-images.githubusercontent.com/61383712/88487078-8c87c080-cf58-11ea-9014-b273a1c3cb62.png"/> </p>
 
+</br>
+</br>
+</br>
 
 <p align="center"><b> TELA NORMAL </b> </p>
 
