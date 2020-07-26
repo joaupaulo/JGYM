@@ -12,6 +12,6 @@
 </br>
 </br>
 
-<p align="center"><b> TELA NORMAL </b> </p>
+<h2 align="center"><b> TELA NORMAL </b> </h2>
 
 ![_C__Users_paulo_Desktop_btn_node_modules_index html](https://user-images.githubusercontent.com/61383712/88487419-4bdd7680-cf5b-11ea-9f8f-21b9dedac1ee.png)
