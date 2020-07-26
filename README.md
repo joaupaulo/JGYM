@@ -11,4 +11,4 @@
 
 <p align="center"><b> TELA NORMAL </b> </p>
 
-<p align="center" <img width="50%" hight="100%" src= "https://user-images.githubusercontent.com/61383712/88487319-6ebb5b00-cf5a-11ea-9593-092b3a41b84c.png"/> </p>
+![_C__Users_paulo_Desktop_btn_node_modules_index html](https://user-images.githubusercontent.com/61383712/88487419-4bdd7680-cf5b-11ea-9f8f-21b9dedac1ee.png)
