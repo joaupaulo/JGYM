@@ -5,4 +5,4 @@
 </br>
  <h2 align="center"><b>-SEGUE ABAIXO SCREESHOTS DO PROJETO</b></h2>
 
-<img width="50%" align="center" src= "https://user-images.githubusercontent.com/61383712/88487078-8c87c080-cf58-11ea-9014-b273a1c3cb62.png"/>
+<img width="50%" hight="100%" src= "https://user-images.githubusercontent.com/61383712/88487078-8c87c080-cf58-11ea-9014-b273a1c3cb62.png"/>
