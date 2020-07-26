@@ -4,5 +4,4 @@
 </br>
 </br>
  <h2 align="center"><b>-SEGUE ABAIXO SCREESHOTS DO PROJETO</b></h2>
-<p align="center">![_C__Users_paulo_Desktop_btn_node_modules_index html(Moto G4)](https://user-images.githubusercontent.com/61383712/88487078-8c87c080-cf58-11ea-9014-b273a1c3cb62.png)
- </p>
+<p align="center">![_C__Users_paulo_Desktop_btn_node_modules_index html(Moto G4)](https://user-images.githubusercontent.com/61383712/88487078-8c87c080-cf58-11ea-9014-b273a1c3cb62.png)</p>
